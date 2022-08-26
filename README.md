@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Syed Noor Ali
+- 👋 Hi, I’m @SyedNoorAli.Dev
 - 👀 I’m interested in Coding and AI
 - 🌱 I’m currently learning Programming in Python
 - 💞️ I’m looking to collaborate on Python Coding projects
