@@ -34,4 +34,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=syednooralidev)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syednoorali.dev)](https://github.com/syednooralidev/github-readme-stats)
+
 
