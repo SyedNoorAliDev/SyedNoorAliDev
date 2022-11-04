@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **syednshah5@gmail.com**
 
-- 📄 Know about my experiences [Co-Director at ACM UET, GM at IEEE, GDSC](Co-Director at ACM UET, GM at IEEE, GDSC)
+- 📄 Know about my experiences (Co-Director at ACM UET, GM at IEEE, GDSC)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
