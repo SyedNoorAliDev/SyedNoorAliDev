@@ -14,8 +14,14 @@
 - 💬 Ask me about **Python, Java, Pandas**
 
 - 📫 How to reach me **syednshah5@gmail.com**
-
-- 📄 Know about my experiences (Co-Director at ACM UET, GM at IEEE, GDSC)
+<h3>My experiences</h3>
+<div>
+  <ul>
+    <li>Co-Director Marketing team ACM</li>
+    <li>General Member at IEEE UET</li>
+    <li>Core member to be at GDSC UET</li>
+  </ul>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
