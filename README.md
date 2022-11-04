@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syednooralidev&label=Profile%20views&color=0e75b6&style=flat" alt="syednooralidev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syednooralidev" alt="syednooralidev" /></a> </p>
-
 - 🌱 I’m currently learning **Java DSA, Data Science**
 
 - 👯 I’m looking to collaborate on **Python and Java projects**
