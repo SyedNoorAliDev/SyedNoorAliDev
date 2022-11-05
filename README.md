@@ -34,11 +34,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=syednooralidev&theme=radical&show_icons=true)
 ![Noor's Activity Graph](https://activity-graph.herokuapp.com/graph?username=syednooralidev&custom_title=Syed%20Noor%20Ali's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=dla01f&point=c58545)
-.line-chart {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
+
 
 
 
