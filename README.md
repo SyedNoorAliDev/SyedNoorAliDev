@@ -5,11 +5,11 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=syednooralidev&label=Profile%20views&color=0e75b6&style=flat" alt="syednooralidev" /> </p>
 <h3> About Me </h3>
 
-- 🌱 I’m currently learning **Java DSA, Data Science**
+- 🌱 I’m currently learning **C++ DSA, Data Science**
 
 - 👯 I’m looking to collaborate on **Python and Java projects**
 
-- 🤝 I’m looking for help with **Java**
+- 🤝 I’m looking for help with **C++**
 
 - 💬 Ask me about **Python, Java, Pandas**
 
@@ -19,7 +19,7 @@
   <ul>
     <li>Co-Director Marketing team ACM</li>
     <li>General Member at IEEE UET</li>
-    <li>Core member to be at GDSC UET</li>
+    <li>Lead Marketing at GDSC UET</li>
   </ul>
 </div>
 
