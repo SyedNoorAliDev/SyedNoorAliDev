@@ -17,9 +17,9 @@
 <h3>My experiences</h3>
 <div>
   <ul>
-    <li>Co-Director Marketing team ACM</li>
-    <li>General Member at IEEE UET</li>
-    <li>Lead Marketing at GDSC UET</li>
+    <li>Co-Director Marketing at ACM-UET</li>
+    <li>Chair Com-Soc at IEEE-UET</li>
+    <li>Lead Marketing at GDSC-UET</li>
   </ul>
 </div>
 
