@@ -47,7 +47,9 @@
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
     </td>
-
+<td align='center' width="200">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" width="100">
+    </td>
 </tr>
  
 <tr>
