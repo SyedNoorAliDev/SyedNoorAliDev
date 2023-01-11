@@ -87,15 +87,7 @@
 |---|---|---|
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedNoorAliDev&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=SyedNoorAliDev&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadhaxxan&theme=gruvbox)|
 	
-
-<a href="https://holopin.io/@ksyednooralidev">
-  <img
-    src="https://holopin.me/syednooralidev"
-    alt="@syednooralidev's Holopin board"
-    class="rounded-xl cursor-pointer grayscale-50 hover:grayscale-0 transform-gpu duration-200"
-  />
-</a>
-
+[![An image of @syednooralidev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syednooralidev)](https://holopin.io/@syednooralidev)
 
 
 
