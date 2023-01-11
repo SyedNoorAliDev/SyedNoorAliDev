@@ -30,11 +30,6 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://https://www.linkedin.com/in/syed-noor-ali-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed noor ali" height="30" width="40" /></a>
-<a href="https://instagram.com/syednoorali.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syednoorali.dev" height="30" width="40" /></a>
-</p>
-
 <h2>Tech Stack</h2>
 
 <table width="80%">
@@ -82,6 +77,12 @@
 </tr>
     
 </table>
+<p align="center">
+<a href="https://www.linkedin.com/in/syed-noor-ali-dev/"><img src="https://th.bing.com/th/id/OIP.ocDQ_FjRiIwqT5pOFWCkZwHaEK?pid=ImgDet&rs=1"/></a>
+<a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+ </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=syednooralidev&theme=radical&show_icons=true)
 ![Noor's Activity Graph](https://activity-graph.herokuapp.com/graph?username=syednooralidev&custom_title=Syed's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
