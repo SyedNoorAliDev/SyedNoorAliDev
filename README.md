@@ -65,9 +65,8 @@
 </tr>
  
 <tr>
-	
-     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
+	<td align='center' width="200">
+        <img src="https://th.bing.com/th/id/OIP.b1PpLl1-C8FWTLzNO3OqVAHaJ4?pid=ImgDet&rs=1" width="90">
     </td>
 
  <td align='center' width="200">
