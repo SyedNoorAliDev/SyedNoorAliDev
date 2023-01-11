@@ -71,7 +71,9 @@
  <td align='center' width="200">
         <img src="https://anvil.works/img/logos/pandas.jpg">
     </td>
-
+<td align='center' width="200">
+        <img src="https://miro.medium.com/max/512/0*Wsnou9DNLrYgvnFR.png">
+    </td>
 </tr>
 	
 <tr>
