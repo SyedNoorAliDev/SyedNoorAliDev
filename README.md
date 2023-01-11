@@ -69,7 +69,7 @@
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
     </td>
  <td align='center' width="200">
-        <img src="https://th.bing.com/th/id/R.bc3e4ed1c1ad22bd32f92e9b94e5fcbc?rik=A2v3ZDkF4SxASA&pid=ImgRaw&r=0">
+        <img src="https://anvil.works/img/logos/pandas.jpg">
     </td>
 
 </tr>
