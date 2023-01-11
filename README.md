@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Syed Noor Ali</h1>
-<h3 align="center">Computer Science & Engineering Undergrad | Data Science Enthusiast | UET Lahore | ACM | IEEE | GDSC</h3>
+<div align="center">
+    <h1 color=#F7CC18FF> Hi there, I'm Saad Fareed👋<a href="#"></h1>
+  </div>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Science+&+Engineering+Undergrad ;Data+Science+Enthusiast;UET+Lahore;ACM;IEEE;GDSC" alt="Typing SVG" /></a>
+
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=syednooralidev&label=Profile%20views&color=0e75b6&style=flat" alt="syednooralidev" /> </p>
