@@ -35,8 +35,59 @@
 <a href="https://instagram.com/syednoorali.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syednoorali.dev" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h2>Tech Stack</h2>
+
+<table width="80%">
+<tr>
+   
+
+  <td align='center' width="150">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
+    </td>
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+    </td>
+
+</tr>
+ 
+<tr>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
+    </td>
+    <td align='center' width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+    </td>
+     <td align='center' width="200">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+    </td>
+</tr>
+ 
+<tr>
+    <td align='center' width="200">
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+    </td>
+    <td align='center' width="200">
+        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
+    </td>
+ <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
+    </td>
+</tr>
+	
+<tr>
+    
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
+    </td>
+     <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
+    </td>
+</tr>
+    
+</table>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=syednooralidev&theme=radical&show_icons=true)
 ![Noor's Activity Graph](https://activity-graph.herokuapp.com/graph?username=syednooralidev&custom_title=Syed's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
