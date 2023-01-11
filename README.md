@@ -79,9 +79,8 @@
 </table>
 <p align="center">
 <a href="https://www.linkedin.com/in/syed-noor-ali-dev/"><img src="https://th.bing.com/th/id/OIP.ocDQ_FjRiIwqT5pOFWCkZwHaEK?pid=ImgDet&rs=1"/></a>
-<a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:syednshah5@gmail.com"><img src="https://img.shields.io/badge/-syednshah5@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/syednoorali.dev/"><img src="https://img.shields.io/badge/-@syednoorali.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=syednooralidev&theme=radical&show_icons=true)
