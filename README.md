@@ -65,9 +65,11 @@
 </tr>
  
 <tr>
-    <td align='center' width="200">
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+	
+     <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
     </td>
+
  <td align='center' width="200">
         <img src="https://anvil.works/img/logos/pandas.jpg">
     </td>
@@ -77,13 +79,7 @@
 </tr>
 	
 <tr>
-    
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
-    </td>
-     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
-    </td>
+   
 </tr>
     
 </table>
