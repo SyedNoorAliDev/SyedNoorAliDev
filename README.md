@@ -82,9 +82,10 @@
 <a href="mailto:syednshah5@gmail.com"><img src="https://img.shields.io/badge/-syednshah5@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/syednoorali.dev/"><img src="https://img.shields.io/badge/-@syednoorali.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
-|Stats />|Streak />|Languages />
+	  
+	  |Stats />|Streak />|Languages />
 |---|---|---|
-|[](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedNoorAliDev&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=SyedNoorAliDev&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadhaxxan&theme=gruvbox)| 
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedNoorAliDev&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=SyedNoorAliDev&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadhaxxan&theme=gruvbox)|
 
 
 
