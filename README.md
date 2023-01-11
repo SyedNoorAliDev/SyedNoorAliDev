@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Engineering+Undergrad;UET+Lahore;Data+Science+Enthusiast;Web+Aspirant;Co-Director+Marketing+@+ACM;Chair+Com-Soc+@+IEEE;Lead+Marketing+@+GDSC;" alt="Typing SVG" /></a>
 
 <p align="center"> 
-  Views<br>
+  Profile Views<br>
   <img src="https://profile-counter.glitch.me/SyedNoorAliDev/count.svg" />
 </p>
 <h3> About Me </h3>
