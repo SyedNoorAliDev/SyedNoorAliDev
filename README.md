@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python, Java, Pandas**
 
-- 📫 How to reach me **syednshah5@gmail.com**
+- 📫 How to reach me **syednoorali.dev@gmail.com**
 <h3>My experiences</h3>
 <div>
   <ul>
@@ -79,7 +79,7 @@
 </table>
 <p align="center">
 <a href="https://www.linkedin.com/in/syed-noor-ali-dev/"><img src="https://img.shields.io/badge/-Syed Noor Ali-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:syednshah5@gmail.com"><img src="https://img.shields.io/badge/-syednshah5@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:syednoorali.dev@gmail.com"><img src="https://img.shields.io/badge/-syednoorali.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/syednoorali.dev/"><img src="https://img.shields.io/badge/-@syednoorali.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
 	  
