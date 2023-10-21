@@ -3,7 +3,7 @@
     <h1 color=#F7CC18FF> Hi there, I'm Syed Noor 👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Engineering+Undergrad;UET+Lahore;Data+Science+Enthusiast;Backend+Web+Developer;Deep+Learning+Fellow;Co-Director+Marketing+@+ACM;Lead+Marketing+@+GDSC;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Engineering+Junior+@UET+Lahore;Deep+Learning+Enthusiast;FullStack;Ex-Intern+at+DevWithOps;Backend+Centered;SRE+|+AWS+|+Django;Flask+|+SQL+|+Git" alt="Typing SVG" /></a>
 
 <p align="center"> 
   Profile Views<br>
@@ -11,21 +11,22 @@
 </p>
 <h3> About Me </h3>
 
-- 🌱 I’m currently learning **C++ DSA, Data Science**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Python and Java projects**
+- 👯 I’m looking to collaborate on **Backend Software Engineering**
 
-- 🤝 I’m looking for help with **C++**
+- 🤝 Feel free to Connect ****
 
-- 💬 Ask me about **Python, Java, Pandas**
+- 💬 Ask me about **Python, Django, SRE & Cloud**
 
 - 📫 How to reach me **syednoorali.dev@gmail.com**
 <h3>My experiences</h3>
 <div>
   <ul>
-    <li>Co-Director Marketing at ACM-UET</li>
-    <li>Chair Com-Soc at IEEE-UET</li>
-    <li>Lead Marketing at GDSC-UET</li>
+    <li>Ex-SDE Intern at @DevWithOps</li>
+    <li>Ex-Deep Learning Fellow @Bytewise</li>
+    <li>Director Logistics @UET-ACM</li>
+    <li>Management Lead @GDSC-UET</li>
   </ul>
 </div>
 
