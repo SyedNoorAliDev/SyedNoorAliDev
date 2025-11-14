@@ -54,7 +54,9 @@
 </tr>
 	
 <tr>
-   
+   <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" /> </td>
+   <td>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" />   </td>
+   <td>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> </td>
 </tr>
     
 </table>
