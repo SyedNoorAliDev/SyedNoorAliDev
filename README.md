@@ -1,4 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <body>
   <div align="center">
     <h1 color=#F7CC18FF> Hi there, I'm Syed Noor, an aspiring ML Engineer and a recent graduate, based in West Springfield, United States👋<a href="#"></h1>
@@ -33,7 +34,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
     </td>
     <td align='center' width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
     </td>
      <td align='center' width="200">
         <img src="https://th.bing.com/th/id/OIP.eyVWUDy9kDXVGDGv1Ev4iAHaHa?pid=ImgDet&rs=1" width="90">
