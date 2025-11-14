@@ -61,7 +61,7 @@
     
 </table>
 <p align="center">
-<a href="https://www.linkedin.com/in/syed-noor-ali/"><img src="https://img.shields.io/badge/-Syed Noor Ali-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/syed-noor-ali/"><img src="https://img.shields.io/badge/-Connect with me on Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:syednshah5@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/syednoorali.dev/"><img src="https://img.shields.io/badge/-Follow me on Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
