@@ -3,7 +3,7 @@
     <h1 color=#F7CC18FF> Hi there, I'm Syed Noor 👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=CS+Engineering+Junior+@UET+Lahore;Ex-Intern+at+DevWithOps;Deep+Learning+Enthusiast;FullStack;Backend+Centered;SRE+|+AWS+|+Django;Flask+|+SQL+|+Git" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=CS+Graduate+@UET+Lahore;Ex-Intern+at+DevWithOps;Deep+Learning+Enthusiast; Currently+in+West+' '+Springfield+,MA+,🇺🇸" alt="Typing SVG" /></a>
 
 <p align="center"> 
   Profile Views<br>
@@ -11,22 +11,20 @@
 </p>
 <h3> About Me </h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **RAG, LLM Fine Tuning & Agentic AI**
 
-- 👯 I’m looking to collaborate on **Backend Software Engineering**
+- 👯 I’m looking to collaborate on **ML Engineering**
 
 - 🤝 Feel free to Connect ****
 
-- 💬 Ask me about **Python, Django, SRE & Cloud**
+- 💬 Ask me about **Python, Pytorch, Tensorflow & Pandas**
 
-- 📫 How to reach me **syednoorali.dev@gmail.com**
+- 📫 How to reach me **syednshah5@gmail.com**
 <h3>My experiences</h3>
 <div>
   <ul>
     <li>Ex-SDE Intern at @DevWithOps</li>
     <li>Ex-Deep Learning Fellow @Bytewise</li>
-    <li>Director Logistics @UET-ACM</li>
-    <li>Management Lead @GDSC-UET</li>
   </ul>
 </div>
 
