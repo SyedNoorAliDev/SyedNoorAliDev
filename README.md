@@ -1,5 +1,4 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <body>
   <div align="center">
     <h1 color=#F7CC18FF> Hi there, I'm Syed Noor, an aspiring ML Engineer and a recent graduate, based in West Springfield, United States👋<a href="#"></h1>
@@ -50,7 +49,7 @@
         <img src="https://anvil.works/img/logos/pandas.jpg">
     </td>
 <td align='center' width="200">
-        <img src="https://miro.medium.com/max/512/0*Wsnou9DNLrYgvnFR.png">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
     </td>
 </tr>
 	
