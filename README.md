@@ -34,9 +34,6 @@
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
 	  <i class="devicon-pytorch-plain-wordmark"></i>
     </td>
- <td align='center' width="200">
-
-    </td>
 </tr>
  
 <tr>
