@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <body>
   <div align="center">
-    <h1 color=#F7CC18FF> Hi there, I'm Syed Noor, 👋 an aspiring ML Engineer and a recent graduate, based MA, 🇺🇸<a href="#"></h1>
+    <h1 color=#F7CC18FF> Hi there, I'm Syed Noor, 👋 an aspiring ML Engineer and a recent graduate, based in MA, 🇺🇸<a href="#"></h1>
   </div>
 <p align="center">
 <h3> About Me </h3>
