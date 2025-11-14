@@ -3,11 +3,6 @@
     <h1 color=#F7CC18FF> Hi there, I'm Syed Noor, an aspiring ML Engineer and a recent graduate, based in West Springfield, United States👋<a href="#"></h1>
   </div>
 <p align="center">
-
-<p align="center"> 
-  Profile Views<br>
-  <img src="https://profile-counter.glitch.me/SyedNoorAliDev/count.svg" />
-</p>
 <h3> About Me </h3>
 
 - 🌱 I’m currently learning **RAG, LLM Fine Tuning & Agentic AI**
