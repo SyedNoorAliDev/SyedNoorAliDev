@@ -27,14 +27,6 @@
 <h2>Tech Stack</h2>
 
 <table width="80%">
-<tr>
-   
-
-  <td align='center' width="150">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
-	  <i class="devicon-pytorch-plain-wordmark"></i>
-    </td>
-</tr>
  
 <tr>
     <td align='center' width="200">
