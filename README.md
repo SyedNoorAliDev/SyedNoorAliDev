@@ -15,13 +15,6 @@
 - 💬 Ask me about **Python, Pytorch, Tensorflow & Pandas**
 
 - 📫 How to reach me **syednshah5@gmail.com**
-<h3>My experiences</h3>
-<div>
-  <ul>
-    <li>Ex-SDE Intern at @DevWithOps</li>
-    <li>Ex-Deep Learning Fellow @Bytewise</li>
-  </ul>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <h2>Tech Stack</h2>
